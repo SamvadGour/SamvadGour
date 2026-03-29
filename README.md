@@ -1,9 +1,12 @@
-<!-- HERO -->
+<!-- HERO SECTION -->
 <h1 align="center">Hi 👋, I'm Samvad Gour</h1>
-<h3 align="center">🔐 Senior Product Security Engineer | AI Security • DevSecOps • AppSec</h3>
 
 <p align="center">
-  Securing products at scale • Building AI-driven security systems • Shifting security left 🚀
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&duration=3000&color=00F7FF&center=true&vCenter=true&width=600&lines=Senior+Product+Security+Engineer;AppSec+%7C+DevSecOps+%7C+AI+Security;Securing+Products+at+Scale;Building+AI-Driven+Security+Systems" />
+</p>
+
+<p align="center">
+  🔐 Securing systems • ⚙️ Automating security • 🧠 Building AI-powered defenses
 </p>
 
 ---
@@ -11,23 +14,22 @@
 ## 🚀 About Me
 
 🔹 Senior Product Security Engineer at **Sony India Software Centre**  
-🔹 5+ years in **Product Security, Application Security (AppSec)**  
-🔹 Core contributor to securing the **PlayStation ecosystem at scale**  
+🔹 5+ years in **Product Security & Application Security (AppSec)**  
+🔹 Securing the **PlayStation ecosystem at scale**  
 
 💡 I specialize in:
-- 🧠 **AI Security & Secure-by-Design Architectures**
-- ⚙️ **DevSecOps & Security Automation**
-- 🛡️ **Threat Modeling & Security Reviews**
-- 🔍 **Vulnerability Management & Risk-Based Remediation**
-- 📦 **Open Source (OSS) & Supply Chain Security**
-- 🔄 **Secure SDLC & Developer-first Security**
+- 🧠 AI Security & Secure-by-Design systems  
+- ⚙️ DevSecOps & security automation  
+- 🛡️ Threat modeling & architecture reviews  
+- 🔍 Vulnerability management & risk prioritization  
+- 📦 OSS & supply chain security  
 
-🎯 My mission:  
-> Build **scalable, intelligent, and automated security systems** that integrate seamlessly into developer workflows.
+🎯 **Mission:**  
+Build **scalable, developer-first, AI-driven security systems**
 
 📚 Currently:
-- Pursuing **CISSP Certification**
-- Exploring **AI-driven security & autonomous AppSec tooling**
+- CISSP (In Progress)
+- Exploring autonomous security tooling
 
 ---
 
@@ -40,58 +42,57 @@
   <a href="https://x.com/SamvadG">
     <img src="https://img.shields.io/badge/X-@SamvadG-black?style=for-the-badge&logo=X&logoColor=white"/>
   </a>
-  <a href="https://instagram.com/sculptedd.soul">
-    <img src="https://img.shields.io/badge/Instagram-@sculptedd.soul-E4405F?style=for-the-badge&logo=Instagram&logoColor=white"/>
-  </a>
   <a href="mailto:goursam@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Email-Let's_Connect-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
 
 ---
 
-## 🛠️ Security & Engineering Stack
+## 🛠️ Core Expertise
 
 ### 🔐 Security
 `AppSec` • `Product Security` • `Threat Modeling` • `Secure SDLC`  
-`Vulnerability Management` • `Risk Assessment` • `OSS Security`  
-`Supply Chain Security` • `Security Architecture`  
+`Vulnerability Management` • `OSS Security` • `Supply Chain Security`
 
-### ⚙️ Dev & Infra
-`Python` • `JavaScript` • `C/C++` • `Node.js / NestJS`  
-`Nginx` • `Apache` • `Tomcat` • `Jenkins`  
+### ⚙️ Engineering
+`Python` • `JavaScript` • `C/C++` • `Node.js / NestJS`
 
-### 🧠 AI / Data
-`PyTorch` • `TensorFlow` • `scikit-learn` • `MLflow`  
-`Pandas` • `NumPy` • `Matplotlib`  
+### 🧠 AI / ML
+`PyTorch` • `TensorFlow` • `scikit-learn` • `MLflow`
 
-### 🗄️ Databases
-`MongoDB` • `MySQL` • `Redis` • `Couchbase`  
-
-### 🔄 DevOps & Tools
-`Git` • `GitHub` • `GitLab` • `Postman` • `Testing Library`  
+### 🔄 DevSecOps
+`CI/CD Security` • `Jenkins` • `Automation` • `GitHub / GitLab`
 
 ---
 
-## 🧠 What I Do Best
+## 🔥 Featured Security Work
 
-✔️ Secure large-scale production ecosystems  
-✔️ Embed security into **developer workflows (Shift Left)**  
-✔️ Build **automated security pipelines**  
-✔️ Perform deep **threat modeling & architecture reviews**  
-✔️ Design **AI-powered security solutions**  
+> *(Replace these with your actual repos — this section is VERY important for recruiters)*
+
+### 🛡️ AI-Powered Vulnerability Prioritization
+- Built intelligent system to rank vulnerabilities based on exploitability & impact  
+- Reduced noise in security alerts significantly  
+
+### 🔍 Automated SAST/DAST Pipeline
+- Integrated security testing into CI/CD pipelines  
+- Enabled real-time vulnerability detection for developers  
+
+### 📦 OSS Supply Chain Risk Scanner
+- Scans dependencies for vulnerabilities & license risks  
+- Helps secure open-source usage at scale  
 
 ---
 
-## 📊 GitHub Analytics
+## 📊 GitHub Insights
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SamvadGour&theme=tokyonight&hide_border=true&show_icons=true"/>
-  <img src="https://nirzak-streak-stats.vercel.app/?user=SamvadGour&theme=tokyonight&hide_border=true"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=SamvadGour&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=SamvadGour&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SamvadGour&layout=compact&theme=tokyonight&hide_border=true"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SamvadGour&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
@@ -99,22 +100,28 @@
 ## 🏆 Achievements
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=SamvadGour&theme=tokyonight&no-frame=true&margin-w=8"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=SamvadGour&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10" />
 </p>
 
 ---
 
-## ✍️ Dev Philosophy
+## 👀 Profile Views
 
-> "Security should not be a blocker — it should be an enabler."  
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=SamvadGour&label=Profile%20Views&color=0e75b6&style=flat" />
+</p>
 
-> Build systems that are **secure by default, scalable by design, and invisible to developers.**
+---
+
+## ✍️ Philosophy
+
+> Security should be **invisible, scalable, and developer-friendly**  
+
+> The best security systems are the ones developers don’t have to think about.
 
 ---
 
 ## ☕ Support
-
-If you like my work or want to support:
 
 <p align="center">
   <a href="https://buymeacoffee.com/samvadg">
